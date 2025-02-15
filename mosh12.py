@@ -1,0 +1,5 @@
+tempereture=30
+if tempereture>30:
+    print("it's a hot day")
+else:
+    print("it's not a hot day")

@@ -1,0 +1,10 @@
+def fun(R):
+    return ((4/3)*3.14159*(R)**3)
+
+R = float(input())
+
+e = fun(R)
+
+print(f"VOLUME =  {e:.3f}")
+
+            
